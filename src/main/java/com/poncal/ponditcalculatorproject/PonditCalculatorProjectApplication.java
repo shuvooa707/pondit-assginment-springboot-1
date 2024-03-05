@@ -6,8 +6,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class PonditCalculatorProjectApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(PonditCalculatorProjectApplication.class, args);
-	}
+    public static void main(String[] args) {
+        SpringApplication.run(PonditCalculatorProjectApplication.class, args);
+    }
 
 }
